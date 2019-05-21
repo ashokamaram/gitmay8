@@ -6,3 +6,4 @@ read -s -p "please enter password:" PASSWORD
 useradd -m $USERNAME -P $PASSWORD
 echo "user $USERNAME is created sucesssfully...!!!!"
 
+ashok kumatr
